@@ -40,6 +40,8 @@ A relação parcela/renda entre 20–30% está associada ao maior risco de não 
 
 Baixe o repositório.
 
+https://samsobral.github.io/analise-credito-home/
+
 Abra o arquivo Análise de Crédito HOME.html em qualquer navegador.
 
 🛠️ Tecnologias Utilizadas
